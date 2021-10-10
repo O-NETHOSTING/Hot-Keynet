@@ -1,0 +1,71 @@
+-------------------------------------------------------------------------------------
+HotkeyNet Log File
+-------------------------------------------------------------------------------------
+
+File opened at 15:43:09 on Thursday, October 26, 2017
+DNS name: PC-IVO
+OS version: Microsoft  (build 9200)
+
+
+CPU:
+	Archictecture = 0; 
+	Page size = 1000; 
+	Min app address = 10000; 
+	Max app address = 7ffeffff; 
+	Mask = f; 
+	Qty cores = 4; 
+	Type = 24a; 
+	Alloc granularity = 10000; 
+	Level = 6; 
+	Revision = 170a.
+
+
+Memory:
+	Load = 49%; 
+	Total physical = 6143 MB; 
+	Available physical = 3123 MB; 
+	Total page file = 10239 MB; 
+	Avail page file = 6530 MB; 
+	Total virtual = 2047 MB; 
+	Avail virtual = 1958 MB; 
+	Avail extended virtual = 0 MB.
+
+
+Mouse:
+	Mouse installed.
+	Buttons not swapped.
+	Speed: 1
+	Threshold (x,y): 6,10
+
+
+Adapter 0:
+
+	IP Address	192.168.2.6
+	Subnet Mask	255.255.255.0
+	Default Gateway	192.168.2.1
+
+	Adapter Name	{88841A35-A2BB-425E-A0C0-5FA7AAAD19D5}
+	Description	Realtek PCIe GBE Family Controller
+	Physical Address	00-30-67-2C-E3-3D
+
+	DHCP Enabled	Yes
+	DHCP Server	192.168.2.1
+	Lease Obtained	Thu Oct 26 15:01:30 2017
+
+	Have WINS	No
+
+HotkeyNet 0.1.45 build 210
+Start as server.
+This IP: 192.168.2.6
+
+C:\d\sou\cpp\macro\foreground_lock.cpp 64: Set SystemParametersInfo; system error 5: Access is denied.
+
+C:\d\sou\cpp\macro\foreground_lock.cpp 85: Foreground Lock Timeout should be zero, but it's not.
+C:\d\sou\cpp\macro\foreground_lock.cpp 64: Set SystemParametersInfo; system error 5: Access is denied.
+
+C:\d\sou\cpp\macro\foreground_lock.cpp 85: Foreground Lock Timeout should be zero, but it's not.
+C:\d\sou\cpp\macro\cAuth.cpp 423: IP seen by authorization server: 95.156.166.186
+
+C:\d\sou\cpp\macro\foreground_lock.cpp 64: Set SystemParametersInfo; system error 5: Access is denied.
+
+C:\d\sou\cpp\macro\foreground_lock.cpp 85: Foreground Lock Timeout should be zero, but it's not.
